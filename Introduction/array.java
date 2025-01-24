@@ -23,7 +23,6 @@ public class array {
         System.out.println(Arrays.toString(number2));
         Arrays.sort(number2);
         System.out.println(Arrays.toString(number2));
-
         int index = Arrays.binarySearch(number2, 24);
         System.out.println("Index of 8 is at " + index);
 
